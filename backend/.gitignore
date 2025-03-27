@@ -1,0 +1,5 @@
+# virtual envs
+plan_canvas_venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
