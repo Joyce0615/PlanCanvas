@@ -2,7 +2,7 @@
 
 PlanCanvas is an interactive diagram creation tool powered by AI that helps you visualize and design systems through natural language descriptions.
 
-![PlanCanvas Interface](docs/images/plancanvas-interface.png)
+![PlanCanvas Interface](docs/images/PlanCanvasMainPage.png)
 
 ## Features
 
